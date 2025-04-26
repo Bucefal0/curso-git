@@ -1,0 +1,2 @@
+De nuevo estoy viendo como crear una rama adicional que no esta en master sino en un branch, para despues probar el comando merge
+
